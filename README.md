@@ -1,6 +1,6 @@
 # JAWJI Drone Detection using RF-DETR
 
-Real-time drone detection using YOLOv8 with optional tracking.
+Real-time drone detection using YOLOv11 with optional tracking.
 
 ## Quick Start
 
